@@ -84,11 +84,10 @@ author:
   avatar           : "zizhao.jpg"
   bio              : "Associate Professor at HDU"
   location         : "Hangzhou, China"
-  employer         :
+  employer         : "Hangzhou Dianzi University"
   googlescholar    : "https://scholar.google.com/citations?user=4SDMVSUAAAAJ&hl=en"
   email            : "wuzizhao at hdu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  QQ               : "564364804"
+  weibo            : "QQ:564364804"
 
 # Reading Files
 include:
