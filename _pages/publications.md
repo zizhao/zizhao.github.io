@@ -27,7 +27,9 @@ author_profile: true
 
 [**Paper**](https://) ![](https://) \| [**Code**](https:///)
 </div>
+</div>
 
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">2023</div><img src='../images/pugat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
