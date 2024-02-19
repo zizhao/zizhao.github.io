@@ -15,8 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-
-# 📝 Publications 
+{% include base_path %}
+<!-- # 📝 Publications -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/cdmst.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
